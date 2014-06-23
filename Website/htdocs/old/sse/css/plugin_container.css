@@ -1,0 +1,27 @@
+/* HTML5 HACK -------------------------------------- */  
+header, section, footer, aside, nav, article {  
+	display: block;  
+}
+ 
+/* LAYOUT ------------------------------------------ */
+ 
+body {
+  font-size: 12px;
+  color: #333;
+  font-family: Verdana, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+p { 
+	text-align: center 
+}
+
+.plugin_container {
+	width: 100%;
+	background: -moz-linear-gradient(center top , #396B9E, #4E89C5) repeat scroll 0 0 #4E89C5;
+    border: 1px solid #225377;
+    color: #FFFFFF;
+    font-weight: bold;
+    text-shadow: 0 -1px 1px #225377;
+}

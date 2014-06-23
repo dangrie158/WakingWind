@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<render_queue>
+	<item>
+		<scene_path>/Users/Daniel/Library/Application Support/SkIndigo/default.igs</scene_path>
+		<halt_spp>-1</halt_spp>
+		<halt_time>-1</halt_time>
+	</item>
+</render_queue>

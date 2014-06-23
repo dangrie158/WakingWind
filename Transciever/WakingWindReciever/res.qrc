@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/windrose">
+        <file>res/E.png</file>
+        <file>res/N.png</file>
+        <file>res/NE.png</file>
+        <file>res/NW.png</file>
+        <file>res/S.png</file>
+        <file>res/SE.png</file>
+        <file>res/SW.png</file>
+        <file>res/W.png</file>
+    </qresource>
+</RCC>

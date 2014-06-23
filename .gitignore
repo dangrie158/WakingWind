@@ -1,0 +1,83 @@
+#Dropbot
+.dropbox
+
+# Ignore list for Eagle, a PCB layout tool
+
+# Backup files
+*.s#?
+*.b#?
+*.l#?
+
+# Eagle project file
+# It contains a serial number and references to the file structure
+# on your computer.
+# comment the following line if you want to have your project file included.
+eagle.epf
+
+# CAM files
+*.$$$
+*.cmp
+*.ly2
+*.l15
+*.sol
+*.plc
+*.stc
+*.sts
+*.crc
+*.crs
+
+*.dri
+*.drl
+*.gpi
+*.pls
+
+*.drd
+*.drd.*
+
+*.info
+
+*.eps
+
+# GCC Build Binaries
+.dep/
+*.lst
+*.eep
+*.elf
+*.hex
+*.lss
+*.lst
+*.map
+*.o
+*.sym
+
+*.DS_Store
+
+*.bak
+
+*.mdzip
+
+Logo/Medianight Poster_w Background.jpg
+
+*.toc
+
+*.gz
+
+Dokumentation/doku.run.xml
+
+*.out
+
+*.log
+
+*.blg
+
+*.bcf
+
+*.bbl
+
+*.aux
+
+*.bib
+
+#Remove PSDs because they are way too large. If you have Interest in them, write me at dangrie158@gmail.com
+
+*.psd
