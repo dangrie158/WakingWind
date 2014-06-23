@@ -78,6 +78,9 @@ Dokumentation/doku.run.xml
 
 *.bib
 
+*.pdf
+
+
 #Remove PSDs because they are way too large. If you have Interest in them, write me at dangrie158@gmail.com
 
 *.psd
